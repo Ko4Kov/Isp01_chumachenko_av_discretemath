@@ -14,7 +14,6 @@ namespace sorted
         {
             if (array == null || array.Length < 2)
                 return;
-
             bool swapDetected = false;
             while (true)
             {
